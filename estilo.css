@@ -5,7 +5,7 @@ html{
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
-    backdrop-filter: blur();
+    background-blend-mode:normal;
 }
 
 
