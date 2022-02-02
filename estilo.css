@@ -11,12 +11,12 @@ body{
 
 
 
-h1{
+.cabecalho{
     text-align: center;
     font-family: "Playfair Display";
 }
 
-h2{
+.indice{
     text-align: justify;
     font-family: "Playfair Display";
 }
