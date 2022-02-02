@@ -1,11 +1,15 @@
 html{
     background-color: #CEE5D0;
     background-image: url(images/ryunosuke-kikuno-FKqxZ58bVjU-unsplash.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
+    backdrop-filter: blur();
 }
+
+
+
 
 h1{
     text-align: center;
