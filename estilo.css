@@ -1,7 +1,7 @@
 html{
     background-color: #CEE5D0;
     background-image: url(images/ryunosuke-kikuno-FKqxZ58bVjU-unsplash.jpg);
-    background-repeat: repeat-y;
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-size: cover;
